@@ -1,6 +1,6 @@
 local return_code="%(?..%{$fg[red]%}%? ↵%{$reset_color%})"
 
-local date='%{$fg[white]%}❮%{$reset_color%}%{$fg[green]%}%D %*%{$reset_color%}%{$fg[white]%}❯%{$reset_color%}'
+local date='%{$fg[white]%}❮%{$reset_color%}%{$fg[cyan]%}%D %*%{$reset_color%}%{$fg[white]%}❯%{$reset_color%}'
 local user_host='%{$fg[white]%}❮%{$reset_color%}%{$terminfo[bold]$fg[magenta]%}%n%{$fg[white]%}＠%{$reset_color%}%{$fg[yellow]%}%m%{$reset_color%}%{$fg[white]%}❯%{$reset_color%}'
 local current_dir='%{$fg[white]%}❮%{$reset_color%}%{$fg[blue]%}%~%{$reset_color%}%{$fg[white]%}❯%{$reset_color%}'
 local git_branch='$(git_prompt_info)%{$reset_color%}'

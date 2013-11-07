@@ -264,12 +264,12 @@
     </option>
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="db9ecc" />
+        <option name="FOREGROUND" value="b383d3" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b182aa" />
+        <option name="FOREGROUND" value="ca5374" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -463,6 +463,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
+        <option name="FOREGROUND" value="b62e27" />
         <option name="EFFECT_COLOR" value="b53224" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -531,7 +532,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="cacb3c" />
+        <option name="FOREGROUND" value="e0972b" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -551,26 +552,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="d25239" />
-        <option name="ERROR_STRIPE_COLOR" value="ff6647" />
+        <option name="BACKGROUND" value="df4528" />
+        <option name="ERROR_STRIPE_COLOR" value="b62e27" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="796a6a" />
-        <option name="ERROR_STRIPE_COLOR" value="747474" />
+        <option name="BACKGROUND" value="563d26" />
+        <option name="ERROR_STRIPE_COLOR" value="966a49" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="3e9d41" />
-        <option name="ERROR_STRIPE_COLOR" value="99ff99" />
+        <option name="BACKGROUND" value="72a0a7" />
+        <option name="ERROR_STRIPE_COLOR" value="8ec7cf" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="3860ba" />
-        <option name="ERROR_STRIPE_COLOR" value="99ccff" />
+        <option name="BACKGROUND" value="5982a6" />
+        <option name="ERROR_STRIPE_COLOR" value="b1cae3" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
@@ -618,7 +619,7 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b182aa" />
+        <option name="FOREGROUND" value="ca5374" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -709,7 +710,7 @@
     </option>
     <option name="JADE_FILE_PATH">
       <value>
-        <option name="FOREGROUND" value="a57da0" />
+        <option name="FOREGROUND" value="b383d3" />
       </value>
     </option>
     <option name="JADE_JS_BLOCK">

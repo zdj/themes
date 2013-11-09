@@ -371,7 +371,7 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="f4eee0" />
+        <option name="FOREGROUND" value="aab5f7" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
@@ -392,7 +392,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="f4eee0" />
+        <option name="FOREGROUND" value="f2c64e" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -421,7 +421,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="f4eee0" />
+        <option name="FOREGROUND" value="f2c64e" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -476,7 +476,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="f4eee0" />
+        <option name="FOREGROUND" value="aab5f7" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">

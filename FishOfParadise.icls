@@ -515,7 +515,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="6b9c86" />
+        <option name="FOREGROUND" value="b0cee7" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -647,7 +647,9 @@
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="b1cae3" />
+      </value>
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
@@ -817,7 +819,7 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6b9c86" />
+        <option name="FOREGROUND" value="b1cae3" />
       </value>
     </option>
     <option name="PHP_BAD_CHARACTER">
@@ -915,7 +917,7 @@
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6b9c86" />
+        <option name="FOREGROUND" value="b1cae3" />
       </value>
     </option>
     <option name="SASS_ATTRIBUTE">

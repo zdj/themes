@@ -952,7 +952,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d4f79a" />
+        <option name="FOREGROUND" value="aab5f7" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1337,7 +1337,7 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f0a0c6" />
+        <option name="FOREGROUND" value="bb004b" />
       </value>
     </option>
     <option name="Unresolved reference access">

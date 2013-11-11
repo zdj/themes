@@ -643,7 +643,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e94627" />
+        <option name="EFFECT_COLOR" value="d8d3af" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1019,7 +1019,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e94627" />
+        <option name="EFFECT_COLOR" value="d8d3af" />
       </value>
     </option>
     <option name="SMARTY_BACKGROUND">
@@ -1077,7 +1077,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e94627" />
+        <option name="EFFECT_COLOR" value="d8d3af" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -1138,12 +1138,12 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e94627" />
+        <option name="EFFECT_COLOR" value="d8d3af" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e94627" />
+        <option name="EFFECT_COLOR" value="d8d3af" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">

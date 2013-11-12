@@ -37,7 +37,7 @@
     <option name="LINE_NUMBERS_COLOR" value="384456" />
     <option name="METHOD_SEPARATORS_COLOR" value="f2c23f" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
-    <option name="NOTIFICATION_BACKGROUND" value="5b4f4a" />
+    <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="f2c23f" />
     <option name="RIGHT_MARGIN_COLOR" value="384456" />
@@ -670,9 +670,7 @@
       <value />
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="BACKGROUND" value="5b4f4a" />
-      </value>
+      <value />
     </option>
     <option name="INSPECTION_MULTIPLE_RESOLVE_WARNING_ID">
       <value />

@@ -44,8 +44,8 @@
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="262629" />
-    <option name="READONLY_BACKGROUND" value="40404" />
-    <option name="READONLY_FRAGMENT_BACKGROUND" value="40404" />
+    <option name="READONLY_BACKGROUND" value="" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="f2c23f" />
     <option name="RIGHT_MARGIN_COLOR" value="5b4f4a" />
     <option name="SELECTED_INDENT_GUIDE" value="5b4f4a" />

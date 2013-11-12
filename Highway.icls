@@ -82,7 +82,7 @@
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="BACKGROUND" value="672872" />
+        <option name="BACKGROUND" value="c8101a" />
         <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="c8101a" />
       </value>

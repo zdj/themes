@@ -296,6 +296,11 @@
         <option name="FOREGROUND" value="5b4f4a" />
       </value>
     </option>
+    <option name="CSS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="1b7d34" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="136c9e" />
@@ -459,7 +464,7 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="d4096e" />
+        <option name="FOREGROUND" value="aac932" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -479,7 +484,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="1b7d34" />
+        <option name="FOREGROUND" value="d4096e" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -489,7 +494,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="aac932" />
+        <option name="FOREGROUND" value="1b7d34" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -858,7 +863,7 @@
     </option>
     <option name="Label">
       <value>
-        <option name="FOREGROUND" value="d4096e" />
+        <option name="FOREGROUND" value="aac932" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -904,7 +909,7 @@
     </option>
     <option name="Map key">
       <value>
-        <option name="FOREGROUND" value="aac932" />
+        <option name="FOREGROUND" value="1b7d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -965,7 +970,7 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="aac932" />
+        <option name="FOREGROUND" value="1b7d34" />
       </value>
     </option>
     <option name="PHP_CONSTANT">
@@ -1001,7 +1006,7 @@
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="aac932" />
+        <option name="FOREGROUND" value="1b7d34" />
       </value>
     </option>
     <option name="REQUIRE_GEM_CALL">

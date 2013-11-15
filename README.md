@@ -16,4 +16,7 @@ These are themes I have created for iTerm, Textmate 2 and Jetbrains IDEs.
   - different hues and shades of green, with a single red error color
 
 **Dimmed_Monokai**
-  - a iTerm and Jetbrains IDE port of the Textmate Dimmed Monokai theme.
+  - a port of the Textmate Dimmed Monokai theme.
+
+**Ciapre**
+  - a port of the Textmate Dimmed Monokai theme.

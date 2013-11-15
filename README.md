@@ -19,4 +19,4 @@ These are themes I have created for iTerm, Textmate 2 and Jetbrains IDEs.
   - a port of the Textmate Dimmed Monokai theme.
 
 **Ciapre**
-  - a port of the Textmate Dimmed Monokai theme.
+  - a port of the Textmate Ciapre theme.

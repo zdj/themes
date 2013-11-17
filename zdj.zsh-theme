@@ -5,7 +5,7 @@ local user_host='%{$fg[white]%}❮%{$reset_color%}%{$fg[blue]%}%n%{$fg[white]%}�
 local current_dir='%{$fg[white]%}❮%{$reset_color%}%{$fg[yellow]%}%~%{$reset_color%}%{$fg[white]%}❯%{$reset_color%}'
 local git_branch='$(git_prompt_info)%{$reset_color%}'
 
-PROMPT="%{$fg[yellow]%}╭───────%{$reset_color%} ${date} ${user_host} ${current_dir} ${git_branch}
+PROMPT="%{$fg[green]%}╭───────%{$reset_color%} ${date} ${user_host} ${current_dir} ${git_branch}
 %{$fg[yellow]%}╰───►%{$reset_color%} ☕  "
 RPS1="${return_code}"
 

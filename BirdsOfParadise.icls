@@ -522,6 +522,7 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="cacb3c" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -586,6 +587,7 @@
       <value>
         <option name="EFFECT_COLOR" value="b53224" />
         <option name="EFFECT_TYPE" value="5" />
+        <option name="ERROR_STRIPE_COLOR" value="b62e27" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -641,6 +643,7 @@
       <value>
         <option name="EFFECT_COLOR" value="cacb3c" />
         <option name="EFFECT_TYPE" value="5" />
+        <option name="ERROR_STRIPE_COLOR" value="c8c84f" />
       </value>
     </option>
     <option name="INHERITED_METHOD_ATTRIBUTES">
@@ -1113,6 +1116,7 @@
       <value>
         <option name="EFFECT_COLOR" value="e09a05" />
         <option name="EFFECT_TYPE" value="5" />
+        <option name="ERROR_STRIPE_COLOR" value="e09a05" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -1128,6 +1132,8 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b53224" />
+        <option name="EFFECT_COLOR" value="b62e27" />
+        <option name="ERROR_STRIPE_COLOR" value="b62e27" />
       </value>
     </option>
     <option name="XPATH.KEYWORD">

@@ -5,6 +5,7 @@ These are themes I have created for iTerm, Textmate 2 and Jetbrains IDEs.
 
 **BirdsOfParadise**
   - brown background with minimal contrast and lots of color. Based on the TextMate theme.
+  - *there's also a FishOfParadise which is essentially the same as BirdsOfParadise but with a blueish background.*
 
 **FishTank**
   - slate blue background with minimal contrast and light colors.
@@ -20,3 +21,6 @@ These are themes I have created for iTerm, Textmate 2 and Jetbrains IDEs.
 
 **Ciapre**
   - a port of the Textmate Ciapre theme.
+
+**EasyEyes**
+  - one of the original themes I did, but may be outdated because I haven't used it in a while. Some people at my office still use it.

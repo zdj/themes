@@ -3,6 +3,8 @@ Editor / Terminal Themes
 
 These are themes I have created for iTerm, Textmate 2 and Jetbrains IDEs. 
 
+*Please note that I use the* **Pragmata Pro** *font which is not free. It is well worth the $9 that it costs, as it it is the best programming font I have ever used. You can get it at http://www.myfonts.com/fonts/fsd/essential-pragmata-pro/regular.*
+
 **BirdsOfParadise**
   - brown background with minimal contrast and lots of color. Based on the TextMate theme
   - *there's also a FishOfParadise which is essentially the same as BirdsOfParadise but with a blueish background*

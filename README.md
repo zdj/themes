@@ -35,7 +35,7 @@ Dimmed_Monokai
   - a port of the Textmate ([Dimmed Monokai](http://tmtheme-editor.herokuapp.com/#/Dimmed-Monokai)) theme
   - dark grey background with softer colors than regular Monokai
   
-  ![image](https://raw.github.com/zdj/themes/master/Dimmed_Monokai.png)
+  ![image](https://raw.github.com/zdj/themes/master/DimmedMonokai.png)
 
 Ciapre
 -----

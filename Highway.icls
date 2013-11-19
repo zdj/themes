@@ -8,7 +8,7 @@
     <option name="ANNOTATIONS_COLOR" value="c4c4c4" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="f3dbae" />
     <option name="CARET_COLOR" value="e47b1a" />
-    <option name="CARET_ROW_COLOR" value="252529" />
+    <option name="CARET_ROW_COLOR" value="2d2c2f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="333333" />
     <option name="FILESTATUS_ADDED" value="1b7d34" />
     <option name="FILESTATUS_DELETED" value="384456" />
@@ -32,7 +32,7 @@
     <option name="FILESTATUS_addedOutside" value="aac932" />
     <option name="FILESTATUS_changelistConflict" value="e47b1a" />
     <option name="FILESTATUS_modifiedOutside" value="4dbaf2" />
-    <option name="GUTTER_BACKGROUND" value="222225" />
+    <option name="GUTTER_BACKGROUND" value="28272b" />
     <option name="INDENT_GUIDE" value="384456" />
     <option name="LINE_NUMBERS_COLOR" value="384456" />
     <option name="METHOD_SEPARATORS_COLOR" value="f2c23f" />
@@ -1238,7 +1238,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f4f4f4" />
-        <option name="BACKGROUND" value="222225" />
+        <option name="BACKGROUND" value="28272b" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

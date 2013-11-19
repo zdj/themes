@@ -50,6 +50,14 @@ Ciapre
   ![image](https://raw.github.com/zdj/themes/master/screenshots/Ciapre.png)
   ![image](https://raw.github.com/zdj/themes/master/screenshots/Ciapre_iterm.png)
 
+Sundried
+-----
+  - a port of the Textmate ([Ciapre](http://tmtheme-editor.herokuapp.com/#/Sundried)) theme
+  - dark grey background with colors that look like dried fruits
+  
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/Sundried.png)
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/Sundried_iterm.png)
+
 FishOfParadise
 -----
   - exactly like BirdsOfParadise but with a blueish background

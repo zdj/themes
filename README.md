@@ -1,4 +1,4 @@
-Editor / iTerm2 Themes    
+Jetbrains / iTerm2 Themes    
 ======
 
 These are themes I have created for iTerm, Textmate 2 and Jetbrains IDEs. 

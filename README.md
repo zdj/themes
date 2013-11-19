@@ -11,7 +11,7 @@ BirdsOfParadise
   - brown background with minimal contrast and lots of color. Based on the TextMate theme
   
   ![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise.png)
-  ![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise_term.png)
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise_iterm.png)
 
 FishTank
 -----

@@ -52,7 +52,7 @@ Ciapre
 
 Sundried
 -----
-  - a port of the Textmate ([Ciapre](http://tmtheme-editor.herokuapp.com/#/Sundried)) theme
+  - a port of the Textmate ([Sundried](http://tmtheme-editor.herokuapp.com/#/Sundried)) theme
   - dark grey background with colors that look like dried fruits
   
   ![image](https://raw.github.com/zdj/themes/master/screenshots/Sundried.png)

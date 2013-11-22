@@ -8,7 +8,7 @@
     <option name="ANNOTATIONS_COLOR" value="355439" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="355439" />
     <option name="CARET_COLOR" value="40f358" />
-    <option name="CARET_ROW_COLOR" value="323635" />
+    <option name="CARET_ROW_COLOR" value="35383a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="333333" />
     <option name="FILESTATUS_ADDED" value="34f46f" />
     <option name="FILESTATUS_DELETED" value="0" />
@@ -32,7 +32,7 @@
     <option name="FILESTATUS_addedOutside" value="34f46f" />
     <option name="FILESTATUS_changelistConflict" value="ed082b" />
     <option name="FILESTATUS_modifiedOutside" value="c9f36b" />
-    <option name="GUTTER_BACKGROUND" value="373b3a" />
+    <option name="GUTTER_BACKGROUND" value="3a3d3f" />
     <option name="HTML_TAG_TREE_LEVEL0" value="" />
     <option name="HTML_TAG_TREE_LEVEL1" value="" />
     <option name="HTML_TAG_TREE_LEVEL2" value="" />
@@ -50,7 +50,7 @@
     <option name="SELECTED_INDENT_GUIDE" value="355439" />
     <option name="SELECTED_TEARLINE_COLOR" value="355439" />
     <option name="SELECTION_BACKGROUND" value="2c9635" />
-    <option name="SELECTION_FOREGROUND" value="" />
+    <option name="SELECTION_FOREGROUND" value="d0e5cb" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="355439" />
     <option name="TEARLINE_COLOR" value="355439" />
     <option name="WHITESPACES" value="355439" />
@@ -1245,7 +1245,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d0e5cb" />
-        <option name="BACKGROUND" value="373b3a" />
+        <option name="BACKGROUND" value="3a3d3f" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

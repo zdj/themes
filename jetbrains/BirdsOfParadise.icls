@@ -8,7 +8,7 @@
     <option name="ANNOTATIONS_COLOR" value="" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="" />
     <option name="CARET_COLOR" value="563e24" />
-    <option name="CARET_ROW_COLOR" value="2f2523" />
+    <option name="CARET_ROW_COLOR" value="2e2321" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="FILESTATUS_ADDED" value="5982a6" />
     <option name="FILESTATUS_DELETED" value="966a49" />
@@ -456,7 +456,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="e1982b" />
+        <option name="FOREGROUND" value="e09a05" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -516,7 +516,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="e1982b" />
+        <option name="FOREGROUND" value="e09a05" />
       </value>
     </option>
     <option name="DEFAULT_STRING">

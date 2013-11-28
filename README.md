@@ -62,7 +62,7 @@ MonaLisa
 -----
   - dark background with low contrast colors from the Mona Lisa
   
-  ![image](https://raw.github.com/zdj/themes/master/screenshots/MonaLisa)
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/MonaLisa.png)
   ![image](https://raw.github.com/zdj/themes/master/screenshots/MonaLisa_iterm.png)
 
 FishOfParadise

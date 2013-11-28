@@ -58,6 +58,13 @@ Sundried
   ![image](https://raw.github.com/zdj/themes/master/screenshots/Sundried.png)
   ![image](https://raw.github.com/zdj/themes/master/screenshots/Sundried_iterm.png)
 
+MonaLisa
+-----
+  - dark background with low contrast colors from the Mona Lisa
+  
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/MonaLisa)
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/MonaLisa_iterm.png)
+
 FishOfParadise
 -----
   - exactly like BirdsOfParadise but with a blueish background

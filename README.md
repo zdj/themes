@@ -70,7 +70,7 @@ ToyChest
   - a port of the Textmate ([ToyChest](http://tmtheme-editor.herokuapp.com/#/ToyChest)) theme
   - blue background with low contrast colors
   
-  ![image](https://raw.github.com/zdj/themes/master/screenshots/ToyChest)
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/ToyChest.png)
   ![image](https://raw.github.com/zdj/themes/master/screenshots/ToyChest_iterm.png)
 
 FishOfParadise

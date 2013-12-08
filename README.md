@@ -13,6 +13,14 @@ BirdsOfParadise
   ![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise.png)
   ![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise_iterm.png)
 
+CrayonPonyFish
+-----
+  - Based on the TextMate theme ([CrayonPonyFish](http://tmtheme-editor.herokuapp.com/#/Crayon%20Pony%20Fish)) theme
+  - Dark maroon background with mostly warm contrasting colors.
+  
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/CrayonPonyFish.png)
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/CrayonPonyFish_iterm.png)
+
 FishTank
 -----
   - slate blue background with minimal contrast and light colors

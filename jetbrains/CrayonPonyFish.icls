@@ -475,12 +475,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="a23516" />
+        <option name="FOREGROUND" value="653151" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="665258" />
+        <option name="FOREGROUND" value="a89098" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -628,7 +628,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="599100" />
+        <option name="EFFECT_COLOR" value="a89098" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1019,7 +1019,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="599100" />
+        <option name="EFFECT_COLOR" value="a89098" />
       </value>
     </option>
     <option name="SMARTY_BACKGROUND">
@@ -1079,7 +1079,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="599100" />
+        <option name="EFFECT_COLOR" value="a89098" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -1139,12 +1139,12 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="599100" />
+        <option name="EFFECT_COLOR" value="a89098" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="599100" />
+        <option name="EFFECT_COLOR" value="a89098" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">

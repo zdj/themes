@@ -475,12 +475,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="653151" />
+        <option name="FOREGROUND" value="8a072c" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="a89098" />
+        <option name="FOREGROUND" value="653151" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">

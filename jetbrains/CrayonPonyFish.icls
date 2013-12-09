@@ -809,7 +809,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="bd3c17" />
+        <option name="EFFECT_COLOR" value="dea35c" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -1126,7 +1126,7 @@
     </option>
     <option name="Unresolved reference access">
       <value>
-        <option name="EFFECT_COLOR" value="a23516" />
+        <option name="EFFECT_COLOR" value="dea35c" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>

@@ -103,6 +103,17 @@
         <option name="ERROR_STRIPE_COLOR" value="ba2b5d" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="c57633" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="b0c95" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value />
     </option>
@@ -431,7 +442,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="bd3c17" />
+        <option name="FOREGROUND" value="a89098" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -686,6 +697,22 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="a89098" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="a89098" />
+      </value>
+    </option>
+    <option name="JS.STATIC_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="a89098" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="KOTLIN_AUTO_CASTED_VALUE">
       <value>
         <option name="BACKGROUND" value="dbffdb" />
@@ -793,7 +820,7 @@
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a23516" />
+        <option name="FOREGROUND" value="a89098" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
@@ -1056,7 +1083,7 @@
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a23516" />
+        <option name="FOREGROUND" value="a89098" />
       </value>
     </option>
     <option name="Static property reference ID">

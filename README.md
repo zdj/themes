@@ -42,6 +42,13 @@ IC_Green_People
   ![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Green_People.png)
   ![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Green_People_iterm.png)
 
+FunForrest
+-----
+  - Very similar to BirdsOfParadise, but more orange
+  
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/FunForrest.png)
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/FunForrest_iterm.png)
+
 Dimmed_Monokai
 -----
   - a port of the Textmate ([Dimmed Monokai](http://tmtheme-editor.herokuapp.com/#/Dimmed-Monokai)) theme

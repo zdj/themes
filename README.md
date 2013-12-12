@@ -80,6 +80,13 @@ ToyChest
   
   ![image](https://raw.github.com/zdj/themes/master/screenshots/ToyChest.png)
   ![image](https://raw.github.com/zdj/themes/master/screenshots/ToyChest_iterm.png)
+  
+FunForest
+-----
+  - Simliar to BirdsOfParadise but with more orange/brown colors
+  
+    ![image](https://raw.github.com/zdj/themes/master/screenshots/FunForest.png)
+    ![image](https://raw.github.com/zdj/themes/master/screenshots/FunForest_iterm.png)
 
 FishOfParadise
 -----

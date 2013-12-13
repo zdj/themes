@@ -22,7 +22,7 @@ AdventureTime
   - blue background with lots of colors
   
   ![image](https://raw.github.com/zdj/themes/master/screenshots/AdventureTime.png)
-  ![image](https://raw.github.com/zdj/themes/master/screenshots/AdventureTime.png_iterm.png)
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/AdventureTime_iterm.png)
 
 CrayonPonyFish
 -----
@@ -57,8 +57,8 @@ IC_Orange_People
 -----
   - mostly different hues and shades of orange with a dark grey background
   
-  ![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Orange_People.png)
-  ![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Orange_People_iterm.png)
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Orange_PPL.png)
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Orange_PPL_iterm.png)
 
 FunForrest
 -----
@@ -106,12 +106,12 @@ ToyChest
   ![image](https://raw.github.com/zdj/themes/master/screenshots/ToyChest.png)
   ![image](https://raw.github.com/zdj/themes/master/screenshots/ToyChest_iterm.png)
   
-FunForest
+FunForrest
 -----
   - Simliar to BirdsOfParadise but with more orange/brown colors
   
-    ![image](https://raw.github.com/zdj/themes/master/screenshots/FunForest.png)
-    ![image](https://raw.github.com/zdj/themes/master/screenshots/FunForest_iterm.png)
+    ![image](https://raw.github.com/zdj/themes/master/screenshots/FunForrest.png)
+    ![image](https://raw.github.com/zdj/themes/master/screenshots/FunForrest_iterm.png)
 
 FishOfParadise
 -----

@@ -1,5 +1,8 @@
+Code with Style!
+=====
+
 Jetbrains / iTerm2 Themes    
-======
+-----
 
 These are themes I have created for iTerm, Textmate 2 and Jetbrains IDEs. 
 
@@ -12,6 +15,14 @@ BirdsOfParadise
   
   ![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise.png)
   ![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise_iterm.png)
+  
+AdventureTime
+-----
+  - colors derived from the post-apocalyptic Land of Ooo (or at least the title screen)
+  - blue background with lots of colors
+  
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/AdventureTime.png)
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/AdventureTime.png_iterm.png)
 
 CrayonPonyFish
 -----
@@ -41,6 +52,13 @@ IC_Green_People
   
   ![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Green_People.png)
   ![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Green_People_iterm.png)
+  
+IC_Orange_People
+-----
+  - mostly different hues and shades of orange with a dark grey background
+  
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Orange_People.png)
+  ![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Orange_People_iterm.png)
 
 FunForrest
 -----

@@ -48,11 +48,11 @@
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="ba2b5d" />
     <option name="RIGHT_MARGIN_COLOR" value="1d1908" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
-    <option name="SELECTED_TEARLINE_COLOR" value="372e0f" />
+    <option name="SELECTED_TEARLINE_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="606aa5" />
     <option name="SELECTION_FOREGROUND" value="c2bb90" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="40404" />
-    <option name="TEARLINE_COLOR" value="372e0f" />
+    <option name="TEARLINE_COLOR" value="" />
     <option name="WHITESPACES" value="" />
   </colors>
   <attributes>

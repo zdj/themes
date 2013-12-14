@@ -106,9 +106,16 @@ ToyChest
   ![image](https://raw.github.com/zdj/themes/master/screenshots/ToyChest.png)
   ![image](https://raw.github.com/zdj/themes/master/screenshots/ToyChest_iterm.png)
   
+Medallion
+-----
+  - A gold background with mostly gold-like colors
+  
+    ![image](https://raw.github.com/zdj/themes/master/screenshots/Medallion.png)
+    ![image](https://raw.github.com/zdj/themes/master/screenshots/Medallion_iterm.png)
+
 FunForrest
 -----
-  - Simliar to BirdsOfParadise but with more orange/brown colors
+  - Similiar to BirdsOfParadise but with more orange/brown colors
   
     ![image](https://raw.github.com/zdj/themes/master/screenshots/FunForrest.png)
     ![image](https://raw.github.com/zdj/themes/master/screenshots/FunForrest_iterm.png)

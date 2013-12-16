@@ -7,8 +7,8 @@
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="ANNOTATIONS_COLOR" value="" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="" />
-    <option name="CARET_COLOR" value="40404" />
-    <option name="CARET_ROW_COLOR" value="1d1908" />
+    <option name="CARET_COLOR" value="c9b53d" />
+    <option name="CARET_ROW_COLOR" value="0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="FILESTATUS_ADDED" value="798719" />
     <option name="FILESTATUS_DELETED" value="40404" />
@@ -40,19 +40,19 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="db9ecc" />
     <option name="HTML_TAG_TREE_LEVEL5" value="e14428" />
     <option name="INDENT_GUIDE" value="" />
-    <option name="LINE_NUMBERS_COLOR" value="372e0f" />
+    <option name="LINE_NUMBERS_COLOR" value="5d511b" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="ba2b5d" />
-    <option name="RIGHT_MARGIN_COLOR" value="1d1908" />
+    <option name="RIGHT_MARGIN_COLOR" value="5d511b" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
-    <option name="SELECTED_TEARLINE_COLOR" value="" />
+    <option name="SELECTED_TEARLINE_COLOR" value="5d511b" />
     <option name="SELECTION_BACKGROUND" value="606aa5" />
     <option name="SELECTION_FOREGROUND" value="c2bb90" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="40404" />
-    <option name="TEARLINE_COLOR" value="" />
+    <option name="TEARLINE_COLOR" value="5d511b" />
     <option name="WHITESPACES" value="" />
   </colors>
   <attributes>
@@ -399,7 +399,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="40404" />
+        <option name="FOREGROUND" value="5c501b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -424,7 +424,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="40404" />
+        <option name="FOREGROUND" value="5c501b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -482,7 +482,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="40404" />
+        <option name="FOREGROUND" value="5c501b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1078,7 +1078,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c2bb90" />
-        <option name="BACKGROUND" value="372e0f" />
+        <option name="BACKGROUND" value="1d1908" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -1088,7 +1088,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="40404" />
+        <option name="FOREGROUND" value="5c501b" />
       </value>
     </option>
     <option name="TWIG_BACKGROUND">

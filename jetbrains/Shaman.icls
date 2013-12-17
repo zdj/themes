@@ -1005,7 +1005,7 @@
     </option>
     <option name="Static property reference ID">
       <value>
-        <option name="FOREGROUND" value="a23516" />
+        <option name="FOREGROUND" value="5b7b1c" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -1091,9 +1091,8 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f44242" />
         <option name="EFFECT_COLOR" value="f44242" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="EFFECT_TYPE" value="5" />
         <option name="ERROR_STRIPE_COLOR" value="ab302d" />
       </value>
     </option>

@@ -47,14 +47,14 @@ Highway
 ![image](https://raw.github.com/zdj/themes/master/screenshots/Highway.png)
 ![image](https://raw.github.com/zdj/themes/master/screenshots/Highway_iterm.png)
 
-IC_Green_People
+IC_Green_PPL
 -----
   - different hues and shades of green, with a single red error color
   
-![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Green_People.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Green_People_iterm.png)
+![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Green_PPL.png)
+![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Green_PPL_iterm.png)
   
-IC_Orange_People
+IC_Orange_PPL
 -----
   - mostly different hues and shades of orange with a dark grey background
   

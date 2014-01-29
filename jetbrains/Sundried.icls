@@ -822,6 +822,52 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
+    <option name="KOTLIN_AUTO_CASTED_VALUE">
+      <value>
+        <option name="BACKGROUND" value="dbffdb" />
+      </value>
+    </option>
+    <option name="KOTLIN_BACKING_FIELD_ACCESS">
+      <value />
+    </option>
+    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
+      <value />
+    </option>
+    <option name="KOTLIN_EXTENSION_PROPERTY">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value>
+        <option name="FOREGROUND" value="4a86e8" />
+      </value>
+    </option>
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value>
+        <option name="EFFECT_COLOR" value="0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
+      <value>
+        <option name="BACKGROUND" value="f5d7ef" />
+      </value>
+    </option>
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION">
+      <value />
+    </option>
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
+      <value />
+    </option>
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />

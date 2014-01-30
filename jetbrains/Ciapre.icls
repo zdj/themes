@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="Ciapre" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="PragmataPro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="4e6c69" />
@@ -800,6 +800,52 @@
       <value>
         <option name="FOREGROUND" value="495139" />
       </value>
+    </option>
+    <option name="KOTLIN_AUTO_CASTED_VALUE">
+      <value>
+        <option name="BACKGROUND" value="dbffdb" />
+      </value>
+    </option>
+    <option name="KOTLIN_BACKING_FIELD_ACCESS">
+      <value />
+    </option>
+    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
+      <value />
+    </option>
+    <option name="KOTLIN_EXTENSION_PROPERTY">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value>
+        <option name="FOREGROUND" value="4a86e8" />
+      </value>
+    </option>
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value>
+        <option name="EFFECT_COLOR" value="0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
+      <value>
+        <option name="BACKGROUND" value="f5d7ef" />
+      </value>
+    </option>
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION">
+      <value />
+    </option>
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
+      <value />
     </option>
     <option name="LABEL">
       <value>

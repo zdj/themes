@@ -16,7 +16,7 @@ BirdsOfParadise
 ![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise.png)
 ![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise_iterm.png)
   
-BirdsOfParadise
+Shaman
 -----
   - My personal favorite. 
   - A dark (blueish) theme with plenty of color, but not too hard on the eyes.

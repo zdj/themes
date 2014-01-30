@@ -815,6 +815,52 @@
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value />
     </option>
+    <option name="KOTLIN_AUTO_CASTED_VALUE">
+      <value>
+        <option name="BACKGROUND" value="dbffdb" />
+      </value>
+    </option>
+    <option name="KOTLIN_BACKING_FIELD_ACCESS">
+      <value />
+    </option>
+    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
+      <value />
+    </option>
+    <option name="KOTLIN_EXTENSION_PROPERTY">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value>
+        <option name="FOREGROUND" value="4a86e8" />
+      </value>
+    </option>
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value>
+        <option name="EFFECT_COLOR" value="0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
+      <value>
+        <option name="BACKGROUND" value="f5d7ef" />
+      </value>
+    </option>
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION">
+      <value />
+    </option>
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
+      <value />
+    </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="b2ffe2" />
@@ -974,6 +1020,18 @@
     <option name="REGEXP.PARENTHS">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="SASS_MIXIN">
+      <value>
+        <option name="FOREGROUND" value="8080" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="800080" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SCOPE_KEY_All">

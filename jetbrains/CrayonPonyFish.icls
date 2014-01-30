@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="CrayonPonyFish" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="PragmataPro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
@@ -11,27 +11,29 @@
     <option name="CARET_ROW_COLOR" value="1f1211" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="FILESTATUS_ADDED" value="599100" />
-    <option name="FILESTATUS_DELETED" value="2c1d1e" />
+    <option name="FILESTATUS_COPIED" value="653151" />
+    <option name="FILESTATUS_DELETED" value="343434" />
     <option name="FILESTATUS_HIJACKED" value="bd3c17" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="2c1d1e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="2c1d1e" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="343434" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="343434" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="bd3c17" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="bd3c17" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="bd3c17" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="6b9c86" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="cacb3c" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="6b9c86" />
-    <option name="FILESTATUS_MERGED" value="737192" />
-    <option name="FILESTATUS_MODIFIED" value="737192" />
+    <option name="FILESTATUS_MERGED" value="653151" />
+    <option name="FILESTATUS_MODIFIED" value="653151" />
     <option name="FILESTATUS_NOT_CHANGED" value="" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="737192" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="737192" />
-    <option name="FILESTATUS_OBSOLETE" value="737192" />
-    <option name="FILESTATUS_SWITCHED" value="737192" />
-    <option name="FILESTATUS_UNKNOWN" value="2c1d1e" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="653151" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="653151" />
+    <option name="FILESTATUS_OBSOLETE" value="653151" />
+    <option name="FILESTATUS_RENAMED" value="653151" />
+    <option name="FILESTATUS_SWITCHED" value="653151" />
+    <option name="FILESTATUS_UNKNOWN" value="343434" />
     <option name="FILESTATUS_addedOutside" value="599100" />
     <option name="FILESTATUS_changelistConflict" value="bd3c17" />
-    <option name="FILESTATUS_modifiedOutside" value="737192" />
+    <option name="FILESTATUS_modifiedOutside" value="653151" />
     <option name="GUTTER_BACKGROUND" value="1d0c0b" />
     <option name="HTML_TAG_TREE_LEVEL0" value="d8d4b1" />
     <option name="HTML_TAG_TREE_LEVEL1" value="cacb52" />
@@ -58,7 +60,7 @@
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a23516" />
+        <option name="FOREGROUND" value="653151" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -74,7 +76,7 @@
     </option>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a23516" />
+        <option name="FOREGROUND" value="653151" />
       </value>
     </option>
     <option name="APACHE_CONFIG.ARG_LEXEM">
@@ -119,7 +121,7 @@
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a4311d" />
+        <option name="FOREGROUND" value="653151" />
       </value>
     </option>
     <option name="COFFEESCRIPT.ESCAPE_SEQUENCE">
@@ -320,12 +322,12 @@
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a23516" />
+        <option name="FOREGROUND" value="653151" />
       </value>
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="dea35c" />
+        <option name="FOREGROUND" value="653151" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -391,7 +393,7 @@
     </option>
     <option name="Class">
       <value>
-        <option name="FOREGROUND" value="a23516" />
+        <option name="FOREGROUND" value="653151" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -442,7 +444,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="a89098" />
+        <option name="FOREGROUND" value="a23516" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -534,8 +536,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="599100" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="a89098" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -671,7 +672,7 @@
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a23516" />
+        <option name="FOREGROUND" value="653151" />
       </value>
     </option>
     <option name="Instance property reference ID">
@@ -820,7 +821,7 @@
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a89098" />
+        <option name="FOREGROUND" value="a23516" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
@@ -1083,7 +1084,7 @@
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a89098" />
+        <option name="FOREGROUND" value="a23516" />
       </value>
     </option>
     <option name="Static property reference ID">
@@ -1137,7 +1138,7 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a23516" />
+        <option name="FOREGROUND" value="653151" />
       </value>
     </option>
     <option name="TYPO">

@@ -24,6 +24,13 @@ Shaman
 ![image](https://raw.github.com/zdj/themes/master/screenshots/Shaman.png)
 ![image](https://raw.github.com/zdj/themes/master/screenshots/Shaman_iterm.png)
   
+Ollie
+-----
+  - A colorful theme with a dark grey background and bright but complementary colors.
+  
+![image](https://raw.github.com/zdj/themes/master/screenshots/Ollie.png)
+![image](https://raw.github.com/zdj/themes/master/screenshots/Ollie_iterm.png)
+
 CrayonPonyFish
 -----
   - Based on the TextMate theme ([CrayonPonyFish](http://tmtheme-editor.herokuapp.com/#/Crayon%20Pony%20Fish)) theme

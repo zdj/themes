@@ -24,6 +24,13 @@ Shaman
 ![image](https://raw.github.com/zdj/themes/master/screenshots/Shaman.png)
 ![image](https://raw.github.com/zdj/themes/master/screenshots/Shaman_iterm.png)
   
+Urple
+-----
+  - A purple flavored theme with insipration from the TextMate ([Made Of Code](http://textmatetheme.com/made-of-code)) theme
+  
+![image](https://raw.github.com/zdj/themes/master/screenshots/Urple.png)
+![image](https://raw.github.com/zdj/themes/master/screenshots/Urple_iterm.png)
+
 Ollie
 -----
   - A colorful theme with a dark grey background and bright but complementary colors.

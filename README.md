@@ -23,6 +23,13 @@ Shaman
   
 ![image](https://raw.github.com/zdj/themes/master/screenshots/Shaman.png)
 ![image](https://raw.github.com/zdj/themes/master/screenshots/Shaman_iterm.png)
+
+Lavandula
+-----
+  - Another purple ish theme featuring a dark background, several purples and complimetary colors.
+  
+![image](https://raw.github.com/zdj/themes/master/screenshots/Lavandula.png)
+![image](https://raw.github.com/zdj/themes/master/screenshots/Lavandula_iterm.png)
   
 Urple
 -----

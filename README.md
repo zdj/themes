@@ -15,6 +15,21 @@ BirdsOfParadise
   
 ![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise.png)
 ![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise_iterm.png)
+
+FrontEndDelight
+-----
+  - based on the TextMate ([FrontEndDelight](https://github.com/bernatfortet/sublime-frontend-delight)) theme
+  
+![image](https://raw.github.com/zdj/themes/master/screenshots/FrontEndDelight.png)
+![image](https://raw.github.com/zdj/themes/master/screenshots/FrontEndDelight_iterm.png)
+
+Alien Blood
+-----
+  - Inspired by several sci-fi horror movies
+  - A dark green background with a mix of low and high contrast colors (most in the green family)
+  
+![image](https://raw.github.com/zdj/themes/master/screenshots/AlienBlood.png)
+![image](https://raw.github.com/zdj/themes/master/screenshots/AlienBlood_iterm.png)
   
 Shaman
 -----

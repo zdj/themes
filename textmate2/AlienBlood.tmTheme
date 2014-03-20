@@ -50,7 +50,7 @@
 			<key>name</key>
 			<string>Text</string>
 			<key>scope</key>
-			<string>variable.parameter.function, meta.class.body, meta.method.body</string>
+			<string>variable.parameter.function, meta.class.body, meta.method.body, meta.method, meta.method-call</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -77,6 +77,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#637d75</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Key Value Separator, Terminator</string>
+			<key>scope</key>
+			<string>punctuation.definition.seperator.key-value, punctuation.terminator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00a9df</string>
 			</dict>
 		</dict>
 		<dict>
@@ -127,7 +138,7 @@
 			<key>name</key>
 			<string>Variables</string>
 			<key>scope</key>
-			<string>variable, meta.definition.variable.name, meta.method-call</string>
+			<string>variable, meta.definition.variable.name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -171,7 +182,7 @@
 			<key>name</key>
 			<string>Methods</string>
 			<key>scope</key>
-			<string>keyword.other.special-method, meta.method</string>
+			<string>keyword.other.special-method</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -180,9 +191,33 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Method Params</string>
+			<key>scope</key>
+			<string>variable.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>underline</string>
+				<key>foreground</key>
+				<string>#2f7e25</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Storage</string>
 			<key>scope</key>
-			<string>storage</string>
+			<string>storage, storage.type.def</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#31497e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Imports, Packages</string>
+			<key>scope</key>
+			<string>storage.modifier.import, storage.modifier.package</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -250,7 +285,20 @@
 			<key>name</key>
 			<string>Constants</string>
 			<key>scope</key>
-			<string>constant</string>
+			<string>constant.language</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+				<key>foreground</key>
+				<string>#637d75</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Constants</string>
+			<key>scope</key>
+			<string>constant.other.groovy, constant.other.java</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -263,7 +311,7 @@
 			<key>name</key>
 			<string>Groovy Map Keys</string>
 			<key>scope</key>
-			<string>constant.other.name.xml</string>
+			<string>constant.other.key</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>

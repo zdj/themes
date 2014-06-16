@@ -8,6 +8,6 @@ local git_branch='$(git_prompt_info)%{$reset_color%}'
 PROMPT="%{$terminfo[bold]$fg[green]%}┎──────%{$reset_color%} ${date} ${user_host} ${current_dir} ${git_branch}
 %{$terminfo[bold]$fg[green]%}┖───%{$reset_color%} ♨︎  "
 RPS1="${return_code}"
- ╶╶╶i▐
+
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[magenta]%}‹"
 ZSH_THEME_GIT_PROMPT_SUFFIX="› %{$reset_color%}"

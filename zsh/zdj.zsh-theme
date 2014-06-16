@@ -5,8 +5,8 @@ local user_host='%{$terminfo[bold]$fg[blue]%}❮%{$reset_color%}%{$fg[blue]%}%n%
 local current_dir='%{$terminfo[bold]$fg[green]%}❮%{$reset_color%}%{$fg[green]%}%~%{$reset_color%}%{$terminfo[bold]$fg[green]%}❯%{$reset_color%}'
 local git_branch='$(git_prompt_info)%{$reset_color%}'
 
-PROMPT="%{$terminfo[bold]$fg[green]%}┎──────%{$reset_color%} ${date} ${user_host} ${current_dir} ${git_branch}
-%{$terminfo[bold]$fg[green]%}┖───%{$reset_color%} ♨︎  "
+PROMPT="%{$terminfo[bold]$fg[yellow]%}┎──────%{$reset_color%} ${date} ${user_host} ${current_dir} ${git_branch}
+%{$terminfo[bold]$fg[yellow]%}┖───%{$reset_color%} ♨︎  "
 RPS1="${return_code}"
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[magenta]%}‹"

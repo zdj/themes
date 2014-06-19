@@ -10,18 +10,18 @@
 | Cursor | 175 | 5 | 90 |
 | Cursor Text | 0 | 0 | 0 |
 | Black | 175 | 5 | 15 |
-| Bright Black | 175 | 5 | 50 |
+| Bright Black | 175 | 5 | 45 |
 | Red | 0 | 30 | 70 |
-| Bright Red | 0 | 30 | 100 |
+| Bright Red | 0 | 50 | 90 |
 | Green | 100 | 30 | 70 |
-| Bright Green | 100 | 30 | 70 | 
+| Bright Green | 100 | 50 | 70 | 
 | Yellow | 40 | 30 | 70 |
-| Bright Yellow | 40 | 30 | 90 |
+| Bright Yellow | 40 | 50 | 90 |
 | Blue | 200 | 30 | 70 |
-| Bright Blue | 200 | 30 | 90 |
+| Bright Blue | 200 | 50 | 90 |
 | Magenta | 230 | 30 | 70 |
-| Bright Magenta | 230 | 30 | 90 |
+| Bright Magenta | 230 | 50 | 90 |
 | Cyan | 150 | 30 | 70 |
-| Bright Cyan | 150 | 30 | 90 |
+| Bright Cyan | 150 | 50 | 90 |
 | White | 175 | 5 | 70 |
 | Bright White | 175 | 5 | 90 |

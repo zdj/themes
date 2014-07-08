@@ -8,7 +8,7 @@ Please note that I use the [Pragmata Pro](http://www.fsd.it/fonts/pragmatapro.ht
 
 ## Whats new?
 
-I am now using [colorscheme](https://pypi.python.org/pypi/colorscheme/0.2) to generate the iTerm screenshots.
+I am now using [colorscheme](https://github.com/gardaud/colorscheme) to generate the iTerm screenshots.
 
 I am working on recreating the [Jetbrains](http://www.jetbrains.com) screenshots as they have become outdated. I am writing a script that will create them automatically as it is time consuming to do each one. The old screenshots are still included in the screenshots directory.
 

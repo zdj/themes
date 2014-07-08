@@ -1,159 +1,36 @@
 Code with Style!
 =====
 
-Jetbrains / iTerm2 Themes    
+Jetbrains / iTerm2 Themes
 -----
 
-These are themes I have created for iTerm, Textmate 2 and Jetbrains IDEs. 
+These are themes I have created for iTerm, Textmate 2 and Jetbrains IDEs.
 
 *Please note that I use the* **Pragmata Pro** *font which is not free. It is well worth the $9 that it costs, as it it is the best programming font I have ever used. You can get it at http://www.myfonts.com/fonts/fsd/essential-pragmata-pro/regular.*
-  
-BirdsOfParadise
------
-  - based on the TextMate ([BirdsOfParadise](http://tmtheme-editor.herokuapp.com/#/Birds%20of%20Paradise)) theme
-  - brown background with minimal contrast and lots of color. Based on the TextMate theme
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/BirdsOfParadise_iterm.png)
 
-FrontEndDelight
------
-  - based on the TextMate ([FrontEndDelight](https://github.com/bernatfortet/sublime-frontend-delight)) theme
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/FrontEndDelight.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/FrontEndDelight_iterm.png)
-
-Alien Blood
------
-  - Inspired by several sci-fi horror movies
-  - A dark green background with a mix of low and high contrast colors (most in the green family)
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/AlienBlood.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/AlienBlood_iterm.png)
-  
-Shaman
------
-  - My personal favorite. 
-  - A dark (blueish) theme with plenty of color, but not too hard on the eyes.
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/Shaman.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/Shaman_iterm.png)
-
-Lavandula
------
-  - Another purple ish theme featuring a dark background, several purples and complimetary colors.
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/Lavandula.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/Lavandula_iterm.png)
-  
-Urple
------
-  - A purple flavored theme with insipration from the TextMate ([Made Of Code](http://textmatetheme.com/made-of-code)) theme
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/Urple.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/Urple_iterm.png)
-
-Ollie
------
-  - A colorful theme with a dark grey background and bright but complementary colors.
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/Ollie.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/Ollie_iterm.png)
-
-CrayonPonyFish
------
-  - Based on the TextMate theme ([CrayonPonyFish](http://tmtheme-editor.herokuapp.com/#/Crayon%20Pony%20Fish)) theme
-  - Dark maroon background with mostly warm contrasting colors.
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/CrayonPonyFish.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/CrayonPonyFish_iterm.png)
-  
-Ciapre
------
-  - a port of the Textmate ([Ciapre](http://tmtheme-editor.herokuapp.com/#/Ciapre)) theme
-  - blue background with minimal contrast colors
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/Ciapre.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/Ciapre_iterm.png)  
-
-Highway
------
-  - grey background with slightly more contrast and highway sign colors
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/Highway.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/Highway_iterm.png)
-
-IC_Green_PPL
------
-  - different hues and shades of green, with a single red error color
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Green_PPL.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Green_PPL_iterm.png)
-  
-IC_Orange_PPL
------
-  - mostly different hues and shades of orange with a dark grey background
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Orange_PPL.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/IC_Orange_PPL_iterm.png)
-
-Dimmed_Monokai
------
-  - a port of the Textmate ([Dimmed Monokai](http://tmtheme-editor.herokuapp.com/#/Dimmed-Monokai)) theme
-  - dark grey background with softer colors than regular Monokai
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/DimmedMonokai.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/DimmedMonokai_iterm.png)
-
-Sundried
------
-  - a port of the Textmate ([Sundried](http://tmtheme-editor.herokuapp.com/#/Sundried)) theme
-  - dark grey background with colors that look like dried fruits
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/Sundried.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/Sundried_iterm.png)
-
-MonaLisa
------
-  - dark background with low contrast colors from the Mona Lisa
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/MonaLisa.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/MonaLisa_iterm.png)
-  
-ToyChest
------
-  - a port of the Textmate ([ToyChest](http://tmtheme-editor.herokuapp.com/#/ToyChest)) theme
-  - blue background with low contrast colors
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/ToyChest.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/ToyChest_iterm.png)
-  
-Medallion
------
-  - Gold theme
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/Medallion.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/Medallion_iterm.png)
-    
-AdventureTime
------
-  - colors derived from the post-apocalyptic Land of Ooo (or at least the title screen)
-  - blue background with lots of colors
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/AdventureTime.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/AdventureTime_iterm.png)
-
-FunForrest
------
-  - Similiar to BirdsOfParadise but with more orange/brown colors and brighter
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/FunForrest.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/FunForrest_iterm.png)
-    
-FishTank
------
-  - slate blue background with minimal contrast and light colors
-  
-![image](https://raw.github.com/zdj/themes/master/screenshots/FishTank.png)
-![image](https://raw.github.com/zdj/themes/master/screenshots/FishTank_iterm.png)
-
+![AdventureTime.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/AdventureTime.itermcolors.png)
+![AlienBlood.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/AlienBlood.itermcolors.png)
+![BirdsOfParadise.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/BirdsOfParadise.itermcolors.png)
+![Ciapre.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Ciapre.itermcolors.png)
+![CrayonPonyFish.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/CrayonPonyFish.itermcolors.png)
+![DimmedMonokai.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/DimmedMonokai.itermcolors.png)
+![Earthsong.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Earthsong.itermcolors.png)
+![FishTank.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/FishTank.itermcolors.png)
+![FrontEndDelight.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/FrontEndDelight.itermcolors.png)
+![FunForrest.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/FunForrest.itermcolors.png)
+![Grape.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Grape.itermcolors.png)
+![Highway.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Highway.itermcolors.png)
+![IC_Green_PPL.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/IC_Green_PPL.itermcolors.png)
+![IC_Orange_PPL.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/IC_Orange_PPL.itermcolors.png)
+![Lavandula.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Lavandula.itermcolors.png)
+![Medallion.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Medallion.itermcolors.png)
+![MonaLisa.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/MonaLisa.itermcolors.png)
+![Ollie.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Ollie.itermcolors.png)
+![Royal.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Royal.itermcolors.png)
+![SeaShells.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/SeaShells.itermcolors.png)
+![Shaman.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Shaman.itermcolors.png)
+![SoftServer.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/SoftServer.itermcolors.png)
+![Sundried.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Sundried.itermcolors.png)
+![ToyChest.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/ToyChest.itermcolors.png)
+![Treehouse.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Treehouse.itermcolors.png)
+![Urple.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Urple.itermcolors.png)

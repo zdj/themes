@@ -2,7 +2,7 @@
 
 ## About
 
-These are themes I have created for [iTerm2](http://www.iterm2.com), [Jetbrains](http://www.jetbrains.com) IDEs (IDEA).
+This project contains themes that I have created for [iTerm2](http://www.iterm2.com), [Jetbrains](http://www.jetbrains.com) IDEs (IDEA).
 
 Please note that I use the [Pragmata Pro](http://www.fsd.it/fonts/pragmatapro.htm) font, which is not free. You can purchase it [here](http://www.myfonts.com/fonts/fsd/essential-pragmata-pro/).
 

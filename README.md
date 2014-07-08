@@ -1,4 +1,4 @@
-# ZDJ's Jetbrains (IDEA) / iTerm2 Themes
+# Jetbrains (IDEA) / iTerm2 Themes
 
 ## About
 

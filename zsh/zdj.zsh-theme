@@ -11,9 +11,3 @@ RPS1="${return_code}"
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$terminfo[bold]$fg[magenta]%}❮%{$reset_color%}%{$fg[magenta]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}%{$terminfo[bold]$fg[magenta]%}❯%{$reset_color%}%{$reset_color%}"
-
-#  ┉┉┉┉┉
-# │◉ ◉│
-# ╲  ▼  ╱
-#  ╽෴╽
-#   ───

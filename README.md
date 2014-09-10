@@ -32,6 +32,8 @@ My [zsh theme](https://raw.githubusercontent.com/zdj/themes/master/zsh/zdj.zsh-t
 ![DimmedMonokai.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/DimmedMonokai.itermcolors.png)
 #### Earthsong.itermcolors
 ![Earthsong.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Earthsong.itermcolors.png)
+#### Elemental.itermcolors
+![Elemental.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Elemental.itermcolors.png)
 #### FishTank.itermcolors
 ![FishTank.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/FishTank.itermcolors.png)
 #### FrontEndDelight.itermcolors

@@ -62,6 +62,8 @@ My [zsh theme](https://raw.githubusercontent.com/zdj/themes/master/zsh/zdj.zsh-t
 ![SeaShells.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/SeaShells.itermcolors.png)
 #### Shaman.itermcolors
 ![Shaman.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Shaman.itermcolors.png)
+#### SleepyHollow.itermcolors
+![SleepyHollow.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/SleepyHollow.itermcolors.png)
 #### SoftServer.itermcolors
 ![SoftServer.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/SoftServer.itermcolors.png)
 #### Sundried.itermcolors

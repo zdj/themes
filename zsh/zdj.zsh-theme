@@ -1,13 +1,16 @@
-local return_code="%(?..%{$fg[red]%}%? ↵%{$reset_color%})"
+local return_code="%(?..%{$fg[white]%}%? ↵%{$reset_color%})"
 
-local date='%{$terminfo[bold]$fg[red]%}❮%{$reset_color%}%{$fg[red]%}%D %*%{$reset_color%}%{$terminfo[bold]$fg[red]%}❯%{$reset_color%}'
-local user_host='%{$terminfo[bold]$fg[blue]%}❮%{$reset_color%}%{$fg[blue]%}%n%{$terminfo[bold]$fg[blue]%}＠%{$reset_color%}%{$fg[blue]%}%m%{$reset_color%}%{$terminfo[bold]$fg[blue]%}❯%{$reset_color%}'
-local current_dir='%{$terminfo[bold]$fg[green]%}❮%{$reset_color%}%{$fg[green]%}%~%{$reset_color%}%{$terminfo[bold]$fg[green]%}❯%{$reset_color%}'
+local current_dir='%{$reset_color%}%{$fg_no_bold[white]%}%~'
+local user_host='%{$reset_color%}%{%K{black}$fg_bold[yellow]%}%n＠%m%k%{$reset_color%}'
+local date='%{$reset_color%}%{$fg_no_bold[blue]%}%W %{$fg_bold[blue]%}%@%{$reset_color%}'
 local git_branch='$(git_prompt_info)%{$reset_color%}'
 
-PROMPT="%{$terminfo[bold]$fg[black]%}┎──────%{$reset_color%} ${date} ${user_host} ${current_dir} ${git_branch}
-%{$terminfo[bold]$fg[black]%}┖───%{$reset_color%}%{$terminfo[bold]$fg[white]%} ♨ %{$reset_color%} "
+PROMPT="
+${user_host}  ${date}
+%{$reset_color%}${current_dir}%{$reset_color%}%{$fg_bold[yellow]%} > %{$reset_color%}"
 RPS1="${return_code}"
 
-ZSH_THEME_GIT_PROMPT_PREFIX="%{$terminfo[bold]$fg[magenta]%}❮%{$reset_color%}%{$fg[magenta]%}"
-ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}%{$terminfo[bold]$fg[magenta]%}❯%{$reset_color%}%{$reset_color%}"
+RPROMPT="${git_branch}"
+
+ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[red]%}"
+ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} "

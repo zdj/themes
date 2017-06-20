@@ -68,6 +68,8 @@ My [zsh theme](https://raw.githubusercontent.com/zdj/themes/master/zsh/zdj.zsh-t
 ![SoftServer.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/SoftServer.itermcolors.png)
 #### Sundried.itermcolors
 ![Sundried.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/Sundried.itermcolors.png)
+#### TheCoralDeeps.itermcolors
+![TheCoralDeeps.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/TheCoralDeeps.itermcolors.png)
 #### ToyChest.itermcolors
 ![ToyChest.itermcolors](https://raw.githubusercontent.com/zdj/themes/master/screenshots/ToyChest.itermcolors.png)
 #### Treehouse.itermcolors

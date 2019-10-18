@@ -7,7 +7,7 @@ Screenshots below and in the [screenshots](screenshots/) directory.
 
 ## Whats new?
 
-I am now using [screenshotTable.sh](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/tools/screenshotTable.sh) to generate the iTerm screenshots.
+I am now using [screenshotTable.sh](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/tools/screenshotTable.sh) (from [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)) to generate screenshots.
 
 ## iTerm2 Screenshots
 
